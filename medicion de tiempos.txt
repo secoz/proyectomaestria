@@ -1,0 +1,6 @@
+Creacion de un metodo para la adquisicion de tiempos
+
+Objetivo:
+Desarrollo del software y el hardware que permita la adquisicion de tiempos
+de la actividad logistica de una manera que permita su analisis y mejora
+del tiempo ciclo.
